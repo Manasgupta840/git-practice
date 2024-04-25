@@ -1,2 +1,2 @@
-const hello = 1;
-const practice = "Hi there!";
+const hello = "hi";
+const practice = "2";
